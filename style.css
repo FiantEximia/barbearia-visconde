@@ -1,11 +1,18 @@
+h1 {
+    text-align: center;
+    size: 20px;
+    color: aqua;
+}
+
 body {
     background: #24873568
 }
 
 p {
     text-align: center;
+
 }
 
 em strong {
-    color: #7a23230b;
+    color: #822121;
 }
